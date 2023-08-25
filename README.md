@@ -1,2 +1,2 @@
 # aula-git02
-# Primaeira aula
+# Primaeira aula com comando
